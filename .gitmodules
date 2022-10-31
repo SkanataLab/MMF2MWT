@@ -1,6 +1,6 @@
 [submodule "Image-Stack-Compressor"]
 	path = Image-Stack-Compressor
-	url = git@github.com:samuellab/MMF-StaticBackgroundCompressor.git
+	url = https://github.com/SkanataLab/MMF-StaticBackgroundCompressor
 [submodule "yaml-cpp"]
 	path = yaml-cpp
-	url = git@github.com:mgershow/yaml-cpp.git
+	url = https://github.com/SkanataLab/yaml-cpp
